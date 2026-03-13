@@ -1,0 +1,24 @@
+{
+  "name": "감사 일기",
+  "short_name": "감사일기",
+  "description": "매일 3가지 감사한 일을 기록하는 앱",
+  "start_url": "./gratitude.html",
+  "display": "standalone",
+  "background_color": "#faf6f0",
+  "theme_color": "#5c3d2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

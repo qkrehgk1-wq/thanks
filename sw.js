@@ -1,6 +1,6 @@
 const CACHE = "gratitude-v1";
 const FILES = [
-  "./gratitude.html",
+  "./index.html",
   "./manifest.json"
 ];
 
